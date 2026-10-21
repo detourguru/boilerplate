@@ -33,6 +33,8 @@ cp .env.example .env.local
 npm run dev
 ```
 
+새 프로젝트로 클론해서 시작할 때는 [SETUP.md](SETUP.md)를 따른다.
+
 ## 스크립트
 
 | 명령어                 | 설명                                         |
